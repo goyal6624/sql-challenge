@@ -8,6 +8,7 @@ This repository contains an Employee Database that includes an Entity-Relationsh
    - employees
    - salaries
    - titles
+[](ERD_sketch.png)
 
 2. Schema:
    The schema for each table is as follows:
