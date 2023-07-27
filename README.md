@@ -1,13 +1,14 @@
 # sql-challenge
 This repository contains an Employee Database that includes an Entity-Relationship Diagram (ERD) sketch, a schema, and SQL queries to answer a series of questions related to the employees' information. The database consists of the following tables:
 
-1. ERD Sketch (made with [Quick Database Diagrams](https://www.quickdatabasediagrams.com/):
+1. ERD Sketch (made with [Quick Database Diagrams](https://www.quickdatabasediagrams.com/)):
    - departments
    - dept_emp
    - dept_manager
    - employees
    - salaries
    - titles
+
 [](ERD_sketch.png)
 
 2. Schema:
